@@ -1,3 +1,3 @@
-# Statistical-Learning-project-
+# Statistical-Learning-project-in R
 airpoll = DATA
 
