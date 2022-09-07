@@ -1,3 +1,3 @@
 # Statistical-Learning-project-in R
-airpoll = DATA
+Our data locate in "airpoll.csv" file 
 
